@@ -5,7 +5,7 @@ import { rquery } from "./var/rquery.js";
 import "../ajax.js";
 
 var oldCallbacks = [],
-	rjsonp = /(=)\?(?=&|$)|\?\?/;
+	rjsonp = /(=)\?(?=&|$)|\?\?/;;
 
 // Default jsonp settings
 jQuery.ajaxSetup( {
