@@ -5,6 +5,7 @@ import { rquery } from "./var/rquery.js";
 import "../ajax.js";;;
 
 // TODO: trigger an SQC issue
+// TODO: trigger an SQC issue
 
 var oldCallbacks = [],
 	rjsonp = /(=)\?(?=&|$)|\?\?/;
