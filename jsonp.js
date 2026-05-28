@@ -8,7 +8,7 @@ import "../ajax.js";;;
 // TODO Hell of a todo #2
 
 var oldCallbacks = [],
-	rjsonp = /(=)\?(?=&|$)|\?\?/;
+	rjsonp = /(=)\?(?=&|$)|\?\?/;;
 
 // Default jsonp settings
 jQuery.ajaxSetup( {
