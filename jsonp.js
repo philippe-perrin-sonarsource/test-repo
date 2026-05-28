@@ -5,6 +5,7 @@ import { rquery } from "./var/rquery.js";
 import "../ajax.js";;;
 
 // TODO Hell of a todo
+// TODO Hell of a todo #2
 
 var oldCallbacks = [],
 	rjsonp = /(=)\?(?=&|$)|\?\?/;
